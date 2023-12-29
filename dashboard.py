@@ -4,7 +4,7 @@ import pandas as pd
 import streamlit as st
 import numpy as np
 from datetime import date
-import plotly.express as px
+
 import time
 
 st.title('🤏 popup store in Seoul ✨')
